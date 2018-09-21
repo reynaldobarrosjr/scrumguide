@@ -3,8 +3,6 @@ Backlog Grooming
 Backlog Grooming é o refinamento do backlog. 
 A palavra Grooming vem do inglês e significa organizar 
 
-Organização do backlog do squad Venda Online
-
 * A reunião de backlog grooming pode envolver: 
 * A descoberta de novos itens; 
 * A alteração de itens existentes; 
