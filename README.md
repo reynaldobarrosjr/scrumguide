@@ -9,5 +9,5 @@ Coisas Ágeis sabor SCRUM
 3. Por quê se chama SCRUM?
 4. O que é SPRINT?
 5. O que é BACKLOG GROOMING?
-6. (O que faz o SCRUM MASTER?)[https://github.com/trevobr/scrumguide/blob/master/scrumaster.md]
+6. [O que faz o SCRUM MASTER?](https://github.com/trevobr/scrumguide/blob/master/scrumaster.md)
 
