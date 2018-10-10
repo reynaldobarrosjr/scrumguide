@@ -20,8 +20,16 @@ Cerimônias do SCRUM
 7. O que é SPRINT REVIEW?
 8. O que é SPRINT RETROSPECTIVE? 
 6. [O que é BACKLOG GROOMING?](https://github.com/trevobr/scrumguide/blob/master/backloggrooming.md)
-7. [O que faz o SCRUM MASTER?](https://github.com/trevobr/scrumguide/blob/master/scrumaster.md)
+
 8. O que é dailymeeting? 
 9. Quais empresas utilizam o SCRUM no Brasil? 
 
-Se você possui outras perguntas não deixe de colaborar. 
+Papeis no SCRUM
+--------------------
+7. [O que faz o SCRUM MASTER?](https://github.com/trevobr/scrumguide/blob/master/scrumaster.md)
+
+Artefatos do SCRUM
+--------------------
+
+
+Se você possui outras perguntas não deixe de colaborar.
