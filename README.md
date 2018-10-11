@@ -26,10 +26,25 @@ Cerimônias do SCRUM
 
 Papeis no SCRUM
 --------------------
+1. O que é Product Owner
+2. O que é o Scrum Master
+3. O que é o Time de desenvolvimento
 7. [O que faz o SCRUM MASTER?](https://github.com/trevobr/scrumguide/blob/master/scrumaster.md)
 
 Artefatos do SCRUM
 --------------------
+
+1.O que é uma USER STORY? 
+
+É uma descrição simples e objetiva da demanda a ser feita pelo time de desenvolvimento do produto. 
+A USER STORY (US) segue uma estrutura específica. 
+
+Exemplo de US:
+
+Eu como [ator] quero um [recurso] para que eu possa [objetivo]. 
+
+Você pode encarar como mini contratos entre o time de desenvolvimento (Dev Team) e o dono do produto (P.O)
+
 
 
 Se você possui outras perguntas não deixe de colaborar.
