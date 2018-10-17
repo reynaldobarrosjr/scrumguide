@@ -14,7 +14,7 @@ O SCRUM
 Cerimônias do SCRUM
 --------------------
 
-4. O que é SPRINT PLANNING?
+4. [O que é SPRINT PLANNING?](https://github.com/trevobr/scrumguide/blob/master/planning.md)
 5. O que é SPRINT RUNNING?
 6. O que é DAILY MEETING?
 7. O que é SPRINT REVIEW?
