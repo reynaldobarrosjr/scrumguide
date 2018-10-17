@@ -1,3 +1,7 @@
+
+O que é **Sprint Planning Meeting**?
+------------------------------------
+
 O **Sprint Planning Meeting** é uma reunião na qual estão presentes o **Product Owner**, o **Scrum Master** e todo o **Scrum Team**, bem como qualquer pessoa interessada que esteja representando a gerência ou o cliente.
 
 Durante o **Sprint Planning Meeting**, o **Product Owner** descreve as funcionalidades de maior prioridade para a equipe. A equipe faz perguntas durante a reunião de modo que seja capaz de quebrar as funcionalidades em tarefas técnicas, após a reunião. Essas tarefas irão dar origem ao **Sprint Backlog**.
